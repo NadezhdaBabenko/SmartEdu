@@ -1,0 +1,158 @@
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+    #header{
+        height: 90vh;
+    }
+    #second_block{
+        height: 90vh;
+        background-image: url('../pictures/second_block_blue.png');
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+    }
+    	/* 2 BLOCK */
+    #second_block_content{
+        width: 250px;
+        height: 400px;
+        padding-top: 8%;
+    }
+    #second_block_content_img{
+		padding-top: 8%;
+	}
+
+/* 4 BLOCK */
+    #fourth_block_img{
+        position: absolute;
+        width: 100%;
+        height: 500px;
+        box-shadow:13px 15px 33px rgba(0, 0, 0, 0.6);
+        z-index: 1;
+        /* margin-bottom: 75px; */
+    }
+    
+    #fourth_block_title_h2{
+        position: relative;
+        color: black;
+        font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+        z-index: 9;
+        padding-left: 90px;
+        margin-top: 0px;
+        font-size: 35px;
+        padding-top: 60px;
+    }
+    
+    #fourth_block_title_p{
+        padding-left: 90px;
+        font-size: 22px;
+        margin-top: -20px;
+    }
+    
+    .fourth_block_rows{
+        justify-content: space-around;
+        flex-direction: row;
+        display: flex;
+    }
+    
+    .fourth_block_icons{
+        position: relative;
+        width: 50px;
+        height: 50px;
+        z-index: 9;
+    }
+    
+    .fourth_block_h4{
+        float: right;
+        position: relative;
+        color: white;
+        font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+        z-index: 9;
+        font-size: 18px;
+        width: 200px;
+        font-style: italic;
+    }
+    
+    .fourth_block_p{
+        font-size: 18px;
+        width: 300px;
+        margin-top: 0px;
+        margin-bottom: 30px;
+    }
+    #fourth_block_first_row{
+        margin-top: 5%;
+    }
+
+    /* 5 BLOCK */
+#fifth_block{
+    display: block;
+    height: 760px;
+}
+
+#fifth_block_img{
+    width: 100%;
+    height: 760px;
+}
+
+#fifth_block_title{
+    width: 100%;
+    margin: 0 auto;
+}
+#fifth_block_title_h2{
+    font-size: 18px;
+    width: 90%;
+    padding-top: 40px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#fifth_block_title_p{
+    font-size: 16px;
+    width: 90%;
+    padding-top: 10px;
+    margin: 0 auto;
+    text-align: center;
+}
+#fifth_block_honeycombs{
+    height: 200px;
+    width: 100%;
+}
+
+#fifth_block_img_honeycombs{
+    transform: scale(1.0);
+}
+
+/* 6 BLOCK */
+#sixth_block{
+    background-image: url('../pictures/telegramm1.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto 100%;
+    height: 550px;
+}
+
+/* 7 BLOCK */
+#seventh_block{
+    padding-bottom: 30px;
+}
+ /* 7 BLOCK тарифы*/
+.seventh_block_column_img{
+    margin-bottom: 20%;
+}
+.seventh_block_column_blocks{
+    height: 50px;
+}
+#seventh_block_column_p3{
+margin-top: -50px;
+padding-top: 0px;
+}
+#seventh_block_column_img3{
+    padding-top: 20px;
+}
+    /* часто задаваемые вопросы */
+    .seventh_block_title5_all_questions{
+        width: 60%;
+    }
+        #fa1, #fa2, #fa3, #fa4{
+        top: 5px;
+    }
+
+}

@@ -1,0 +1,621 @@
+@media screen and (min-width: 2201px) and (max-width: 2800px){
+    /* 1 BLOCK */
+    .nav ul{
+        width: 90%;
+    }
+    #menu a{
+        font-size: 38px;
+    }
+    #header_h1{
+        font-size: 85px;
+        font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+        width: 50%;
+        line-height: 95px;
+        margin-top: 80px;
+        margin-right: 5%;
+    }
+    .header_p1{
+        width: 70%;
+    }
+    #header_p p{
+        font-size: 41px;
+        margin-top: 10px;
+        width: 700px;
+        float: right;
+        margin-left: 10px;
+    }
+    .header_img{
+        width: 85px;
+        height: 85px;
+        margin-top: 10px;
+    }
+
+    #header_logo{
+        height: 230px;
+        width: 200px;
+        position: relative;
+        margin-right: 90%;
+    }
+    #header_button_send{
+        width: 400px;
+        height: 60px;
+        font-size: 36px;
+        line-height: 48px;
+        padding-left: 30px;
+        margin-top: -20px;
+    }
+    
+    .header_send{
+        width: 200px;
+    }
+#header_block{
+    padding-top: 15px;
+}
+    /* 2 BLOCK */
+    #second_block{
+        height: 100vh;
+        background-image: url('../pictures/second_block_blue.png');
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: 100% 100%;
+        height: 650px;
+    }
+    #second_block_content1{
+        font-size: 30px;
+    }
+    
+    #second_block_content2{
+        font-size: 35px;
+        line-height: 45px;
+    }
+    #second_block_content_img{
+        position: relative;
+        z-index: 9;
+        transform: scale(1.2);
+        padding-top: 10px;
+        /* margin-top: -10px; */
+        /* height: 20px; */
+    }
+    
+    #second_block_content{
+        padding-top: 50px;
+        width: 900px;
+    }
+    #second_block_h1{
+        font-size: 40px;
+    }
+
+    #second_block_p1{
+        font-size: 30px;
+        width: 40%;
+    }
+    #second_block_p{
+        font-size: 34px;
+    }
+    #second_block_buttons{
+        margin-top: 115px;
+    }
+    #second_block{
+        height: 700px;
+    }
+    #img_second_block{
+        height: 700px;
+    }
+
+    /* 3 BLOCK */
+
+#third_block_title{
+    font-size: 35px;
+}
+
+.third_block_icons{
+    width: 130px;
+    height: 140px;
+    margin-left: 40%;
+}
+
+#third_block_icon5{
+    width: 170px;
+}
+
+.third_block_h4{
+    width: 450px;
+    font-size: 30px; 
+}
+
+.third_block_p{
+    font-size: 27px;
+    width: 450px;
+    padding: 10px;
+}
+
+    /* 4 BLOCK */
+
+    #fourth_block_img{
+        width: 100%;
+        height: 700px;
+        box-shadow:13px 15px 33px rgba(0, 0, 0, 0.6);
+        margin-bottom: 0px;
+    }
+    
+    #fourth_block_title_h2{
+        padding-left: 90px;
+        margin-top: 0px;
+        font-size: 60px;
+        padding-top: 60px;
+    }
+    
+    #fourth_block_title_p{
+        padding-left: 90px;
+        font-size: 40px;
+        margin-top: -20px;
+    }
+    
+    .fourth_block_icons{
+        width: 90px;
+        height: 90px;
+    }
+    
+    .fourth_block_h4{
+        font-size: 33px;
+        width: 490px;
+    }
+    
+    .fourth_block_p{
+        font-size: 30px;
+        width: 620px;
+        margin-top: 0px;
+        margin-bottom: 30px;
+    }
+    #fourth_block_first_row_1, #fourth_block_first_row_2, #fourth_block_first_row_3{
+        margin-top: 10%;
+    }
+
+     /* 5 BLOCK */
+#fifth_block{
+    display: block;
+    height: 1550px;
+}
+
+#fifth_block_img{
+    width: 100%;
+    height: 1600px;
+    margin-top: -25px;
+}
+
+#fifth_block_title{
+    width: 100%;
+    margin: 0 auto;
+}
+#fifth_block_title_h2{
+    font-size: 55px;
+    width: 90%;
+    padding-top: 40px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#fifth_block_title_p{
+    font-size: 40px;
+    width: 90%;
+    padding-top: 10px;
+    margin: 0 auto;
+    text-align: center;
+}
+#fifth_block_honeycombs{
+    height: 200px;
+    width: 100%;
+}
+
+#fifth_block_img_honeycombs{
+    transform: scale(0.8);
+}
+        /* 6 BLOCK */
+        #sixth_block{
+            height: 1115px;
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: 100% 100%;
+        }
+
+        
+        
+        #sixth_block_title_h2{
+            font-size: 60px;
+            width: 100%;
+            padding-top: 60px;
+            margin-top: -15px;
+        }
+        
+        #sixth_block_column_1, #sixth_block_column_3{
+            position: relative;
+            justify-content: space-between;
+            flex-direction: column;
+            display: flex;
+            float: left;
+            margin-top: 100px;
+        }
+        
+        .sixth_block_frame{
+            border: 2px solid white;
+            border-radius: 10px;
+            width: 750px;
+            height: 280px;
+        }
+        
+        .sixth_block_frame_h3_left{
+            font-size: 45px;
+            width: 400px;
+            text-align: right;
+            margin-bottom: 5px; 
+            margin-left: 170px;
+        }
+        
+        .sixth_block_frame_p2{
+            font-size: 28px;
+            width: 580px;
+            font-weight: bold;
+            text-align: center;
+            margin-left: 100px;
+    
+        }
+        
+        .sixth_block_frame_p1{
+            font-size: 28px;
+            width: 570px;
+            font-weight: bold;
+            text-align: center;
+            margin-left: 70px;
+        }
+        
+        .sixth_block_frame_img_right{
+            height: 110px;
+            width: 110px;
+            position: relative;
+            z-index: 9;
+            float: right;
+            margin-right: 10px;
+        }
+        #sixth_block_frame_img_right1{
+            margin-top: -250px;
+        }
+        #sixth_block_frame_img_right2{
+            margin-top: -180px;
+        }
+        /* второй столбец */
+        
+        #sixth_block_column_2{
+            padding-top: 100px;
+            padding-left: 30px; 
+            padding-right: 30px; 
+        }
+        
+        .sixth_block_frame_h4{
+            font-size: 35px;
+            width: 170px;
+            text-align: center;
+        }
+        
+        .sixth_block_frame_p_center{
+            float: right;
+            font-size: 18px;
+            margin-right: 20px;
+            line-height: 18px;
+        }
+        
+        .sixth_block_frame_3_mini{
+            margin-top: 25px;
+            border-radius: 40px;
+            width: 200px;
+            height: 50px;
+        }
+        #sixth_block_frame_3{
+            margin-top: 150px;
+            margin-right: 20px;
+            padding-left: 0;
+        }
+        .sixth_block_frame_img_center{
+            height: 45px;
+            width: 41px;
+            margin-left: 10px;
+        }
+        
+        /* третий столбец */
+        .sixth_block_frame_img_left{
+            height: 100px;
+            width: 100px;
+            float: left;
+        }
+        
+        #sixth_block_frame_img_left1{
+            height: 150px;
+            width: 170px;
+            margin-top: -65px;
+        }
+        
+        #sixth_block_frame_img_left2{
+            height: 110px;
+            width: 110px;
+            margin-top: -60px;
+            margin-left: 10px;
+        }
+        
+        .sixth_block_frame_h3_right{        
+            font-size: 45px;
+            width: 500px;
+            margin-left: 120px;
+            padding-left: 40px;
+            margin-bottom: 5px; 
+        }
+        
+        #sixth_block_columns{
+            display: table;
+            margin: 0 auto;
+        }
+        
+        #sixth_block_frame_2, #sixth_block_frame_5{
+            margin-top: 50px;
+        }
+
+
+    /* 7 BLOCK */
+    #seventh_block{
+        padding-bottom: 130px;
+    }
+    
+    #seventh_block_title{
+        padding-top: 30px;
+        font-size: 65px;
+        width: 70%;
+    }
+    
+    .seventh_block_icons{
+        width: 180px;
+        height: 190px;
+    }
+    
+    .seventh_block_numbers{
+        font-size: 170px;
+    }
+    
+    .seventh_block_h4{
+        width: 500px;
+        font-size: 40px; 
+    }
+    
+    .seventh_block_p{
+        font-size: 35px;
+        width: 500px;
+    } 
+        /* 7 BLOCK тарифы*/
+        #seventh_block_title2{
+            padding-top: 30px;
+            font-size: 70px;
+            text-align: center;
+            width: 90%;
+            margin: 20px auto;
+        
+        }
+        
+        .seventh_block_columns{
+            width: 450px;
+            height: 1000px;
+            float: left;
+            border-radius: 10px;
+        }
+        
+        .seventh_block_columns_div{
+            width: 1400px;
+            margin: 0 auto;
+        }
+        
+        #seventh_block_title2_popular{
+            width: 450px;
+            margin: 0 auto;
+            text-align: center;
+            font-size: 25px;
+            line-height: 55px;
+        }
+        
+        .seventh_block_column_h2{
+            font-size: 45px;
+            width: 400px;
+        }
+        
+        .seventh_block_column_h3{
+            text-align: center;
+            width: 310px;
+            margin: 0 auto;
+            font-size: 40px;
+        }
+        .seventh_block_column_p_top{
+            width: 450px;
+            margin: 0 auto;
+            font-size: 25px;
+            font-weight: 900;
+            text-align: center;
+            padding-bottom: 20px;
+        }
+        #seventh_block_column_h3_1{
+            padding-bottom: 30px;
+        }
+        
+        .seventh_block_column_img{
+            width: 40px;
+            height: 40px;
+            margin-left: 5px;
+            padding-top: 10%;
+        }
+        
+        .seventh_block_column_p{
+            font-size: 32px;
+            padding-top: 0;
+            margin-top: -33px;
+            width: 410px;
+            float: right;
+        }
+        
+        .seventh_block_title3_h1{
+            width: 80%;
+            font-size: 45px;
+            margin: 0px auto;
+            padding-top: 30px;
+        }
+        
+        .seventh_block_title3_p{
+            width: 80%;
+            padding-top: 10px;
+            font-size: 30px;
+            line-height: 40px;
+            margin: 0px auto;
+            font-weight: 20px;
+        }
+    /* таблица с ценами */
+    .seventh_block_table_img{
+        width: 100px;
+        height: 100px;
+        text-align: left;
+        padding-right: 30px;
+        margin-right: 30px;
+    }
+    .seventh_block_h4_2{
+        font-family: 'Open Sans Bold', Arial, Helvetica, sans-serif; 
+        font-size: 35px;
+        width: 450px;
+        text-align-last: left;
+    }
+    .seventh_block_row_p{
+        font-family: 'Open Sans Bold', Arial, Helvetica, sans-serif; 
+        font-size: 25px;
+        width: 800px;
+        text-align-last: left;
+    }
+    
+    .seventh_block_row_p_price{
+        width: 226px;
+        text-align-last: left;
+        padding-left: 30px;
+        font-family: Raleway, 'Open Sans Bold', Arial, Helvetica, sans-serif; 
+        font-weight: bold;
+        font-style: italic;
+        font-size: 45px;
+        margin-top: 0px;
+    }
+    .seventh_block_row_span_price{
+        font-size: 25px;
+    }
+    .seventh_block_title4_h1{
+        font-size: 50px;
+        padding: 40px auto;
+    }
+    /* заявка на консультацию */
+.seventh_block_title4_h2{
+    font-size: 65px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.seventh_block_title4_p{
+    width: 1150px;
+    font-size: 35px;
+}
+
+.seventh_block_title4_1{
+    justify-content: center;
+	flex-direction: row;
+    display: flex;
+    padding-top: 150px;
+}
+
+.seventh_block_title4_flex1{
+    margin-top: 20px;
+
+}
+.seventh_block_title4_flex2{
+    margin-left: 100px;
+    width: 450px;
+    height: 700px; 
+}
+
+#seventh_block_title_input{
+    font-size: 33px;
+}
+
+.seventh_block_inputs{
+    width: 385px;
+    height: 75px;
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+
+#seventh_block_input_submit{
+    width: 385px;
+    height: 75px;
+    border-radius: 75px;
+    font-size: 37px;
+}
+    /* часто задаваемые вопросы */
+    .seventh_block_title5_h2 {
+        font-size: 65px;
+    }
+    .seventh_block_title5_all_questions{
+        width: 60%;
+    }
+    .seventh_block_title5_question_all_p{
+        font-size: 41px;
+    }
+    .seventh_block_title5_question_content{
+        font-size: 30px;
+    }
+    .seventh_block_title5_question_content_li{
+        font-size: 33px;
+    }
+    .fa-plus:before{
+        left: -39px;
+        top: 20px;
+        padding: 18px;
+        font-size: 35px;
+    }
+    .fa-minus:before{
+        left: -39px;
+        top: 20px;
+        padding: 18px;
+        font-size: 35px;
+    }
+        /* 8 BLOCK */
+        .eighth_block_icons{
+            height: 70px;
+            width: 70px;
+            margin: 40px 0;
+        }
+        
+        .eighth_block_logo{
+            width: 120px;
+            height: 130px;
+            margin: 10px 0;
+        }
+        
+        .eighth_block_p{
+            font-size: 33px;
+        }
+        #fa1, #fa2, #fa3, #fa4{
+            background-color: #5c2b8a;
+            height: 30px;
+            width: 30px;
+            border-radius: 50%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: white;
+            position: relative;
+            left: -25px;
+            top: 15px;
+            font-size: 35px;
+        }
+        .seventh_block_title5_question_all_p {
+            font-size: 33px;
+            padding: 0 35px;
+        }
+    
+
+}

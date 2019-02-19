@@ -1,0 +1,438 @@
+
+
+@media screen and (min-width: 770px) and (max-width: 991px) {
+    /* 1 BLOCK */
+    #header_h1{
+        color: white;
+        font-size: 35px;
+        font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+        width: 50%;
+        line-height: 55px;
+        margin-top: -10px;
+    }
+
+    #header_p p{
+        color: white;
+        font-size: 15px;
+        font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+        margin-top: 10px;
+        width: 250px;
+        float: right;
+        margin-left: 10px;
+    }
+
+    .header_img{
+        width: 40px;
+        height: 40px;
+        margin-top: 10px;
+    }
+
+    #header_block{
+        padding-top: 1%;
+    }
+
+    	/* 2 BLOCK */
+	#img_second_block{
+		position: absolute;
+		width: 100%;
+		height: 100%;
+		box-shadow:13px 15px 33px rgba(0, 0, 0, 0.6);
+		z-index: 1;
+	}
+    #second_block_h1{
+        position: relative;
+        color: black;
+        font-size: 25px;
+        font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+        margin-top: 40px; 
+        z-index: 9;
+        width: 100%;
+        text-align: center;
+        margin: 20px 0 0;
+    }
+    
+    #second_block_p1{
+        position: relative;
+        color: black;
+        font-size: 16px;
+        font-family: 'Open Sans', Arial, Helvetica, sans-serif; 
+        z-index: 9;
+        width: 50%;
+        height: 40px;
+        margin: 0 auto;
+        text-align: center;
+        font-style: italic;
+    }
+    .second_block_title{
+        /* width: 100%; */
+        padding: 20px!important;
+        z-index: 15;
+        padding: 0;
+    }
+    #second_block_content_flex{
+		justify-content: space-around;
+		flex-direction: column;
+		display: flex;
+	}
+	#second_block_content{
+		padding-top: 50px;
+		width: 100%;
+	}
+	#second_block_content_img{
+		z-index: 9;
+		transform: scale(0.7);
+		height: 360px;
+        margin-top: -120px;
+        margin-left: auto;
+        margin-right: auto;
+		
+	}
+	#second_block_content1{
+		font-size: 14px;
+		line-height: 18px;
+		height: 30px;
+        margin-top: -7%;
+        width: 60%;
+        margin-left: auto;
+        margin-right: auto;
+	}
+	#second_block_content2{
+		font-size: 14px;
+		line-height: 18px;
+        height: 90px;
+        width: 60%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+/* 3 BLOCK */
+    #third_block_title{
+        padding-top: 30px;
+        font-size: 25px;
+        width: 100%;
+        margin-top: 0px;
+    }
+    .third_block_p{
+        margin-top: -15px;
+        font-size: 13px;
+        width: 90%;
+        padding: 10px;
+        text-align: center; 
+        margin-right: 0;
+    }
+
+/* 4 BLOCK */
+#fourth_block_title_h2{
+    padding-left: 90px;
+    margin-top: 0px;
+    font-size: 30px;
+    padding-top: 20px;
+}
+
+#fourth_block_title_p{
+    padding-left: 90px;
+    font-size: 18px;
+    margin-top: -20px;
+}
+#fourth_block_first_row{
+    margin-top: 12%;
+}
+/* 5 BLOCK */
+#fifth_block{
+    display: block;
+    height: 650px;
+}
+
+#fifth_block_img{
+    width: 100%;
+    height: 650px;
+}
+
+#fifth_block_title{
+    width: 100%;
+    margin: 0 auto;
+}
+#fifth_block_title_h2{
+    font-size: 18px;
+    width: 90%;
+    padding-top: 40px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#fifth_block_title_p{
+    font-size: 16px;
+    width: 90%;
+    padding-top: 10px;
+    margin: 0 auto;
+    text-align: center;
+}
+#fifth_block_honeycombs{
+    height: 200px;
+    width: 100%;
+}
+
+#fifth_block_img_honeycombs{
+    transform: scale(1.0);
+}
+
+
+
+
+
+    /* 6 BLOCK */
+        /* 6 BLOCK */
+        #sixth_block{
+            background-image: url('../pictures/telegramm1.png');
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: auto 100%;
+            height: 550px;
+        }
+        
+        #sixth_block_title_h2{
+            font-size: 18px;
+            width: 100%;
+            padding-top: 30px;
+            margin: 0 auto;
+        }
+        
+        #sixth_block_column_1, #sixth_block_column_3{
+            justify-content: space-between;
+            flex-direction: column;
+            display: flex;
+            float: left;
+            padding-top: 100px;
+        }
+        
+        .sixth_block_frame{
+            width: 210px;
+            height: 150px;
+        }
+        
+        .sixth_block_frame_h3_left{
+            font-size: 15px;
+            width: 200px;
+            text-align: right;
+            margin-bottom: 5px;
+            padding-right: 10px; 
+        }
+        
+        .sixth_block_frame_p1{
+            font-size: 9px;
+            width: 90px;
+            text-align: center;
+            margin-left: 30px;
+            /* margin: 0 auto; */
+        }
+        
+        .sixth_block_frame_img_right{
+            height: 50px;
+            width: 50px;
+            float: right;
+            margin-top: -60px;
+            margin-right: 10px;
+        }
+        
+        
+        /* второй столбец */
+        
+        #sixth_block_column_2{
+            float: left;
+            padding-top: 100px;
+            padding-left: 3px; 
+        }
+        
+        .sixth_block_frame_h4{
+            text-align: center;
+            font-size: 12px;
+            width: 70px;
+        }
+        
+        .sixth_block_frame_p_center{
+            float: right;
+            visibility: hidden;
+        }
+        
+        .sixth_block_frame_3_mini{
+            margin-top: 20px;
+            border-radius: 20px;
+            width: 50px;
+            height: 30px;
+            margin-left: 8px;
+        }
+        
+        .sixth_block_frame_img_center{
+            height: 25px;
+            width: 25px;
+            margin-left: 10px;
+        }
+        #sixth_block_frame_img_center_1{
+            margin-top: 3px;
+        }
+        #sixth_block_frame_img_center_2{
+            margin-top: -33px;
+        }
+        #sixth_block_frame_img_center_3{
+            margin-top: -38px;
+        }
+        #sixth_block_frame_3{
+            padding-top: 50px;
+        }
+        /* третий столбец */
+        .sixth_block_frame_img_left{
+            height: 60px;
+            width: 60px;
+            float: left;
+        }
+        .sixth_block_frame_p2{
+            font-size: 9px;
+            width: 90px;
+            text-align: center;
+            margin-left: 80px;
+            margin-top: 5px;
+        }
+        #sixth_block_frame_img_left1{
+            height: 80px;
+            width: 80px;
+            margin-top: 15px;
+        }
+        
+        #sixth_block_frame_img_left2{
+            margin-top: 20px;
+            margin-left: 10px;
+        }
+        
+        .sixth_block_frame_h3_right{
+            font-size: 15px;
+            width: 180px;
+            text-align: left;
+            margin-bottom: 5px;
+            margin-left: 40px;
+        }
+        
+        #sixth_block_columns{
+            display: table;
+            margin: 0 auto;
+        }
+        
+        #sixth_block_frame_2, #sixth_block_frame_5{
+            margin-top: 50px;
+        }
+    /* 7 BLOCK */
+        #seventh_block_first_row_1, #seventh_block_first_row_1, #seventh_block_first_row_3, #seventh_second_first_row_1, #seventh_second_first_row_2, #seventh_second_first_row_3{
+            width: 250px;
+        }
+        .seventh_block_p{
+            margin: 0;
+            font-size: 12px;
+            width: 220px;
+            padding: 10px;
+            text-align: center; 
+        } 
+
+        #seventh_block{
+            padding-bottom: 30px;
+        }
+        /* 7 BLOCK тарифы*/
+        #seventh_block_title2{
+            padding-top: 30px;
+            font-size: 30px;
+            text-align: center;
+            width: 30%;
+            margin: 20px auto;
+        }
+        
+        .seventh_block_columns{
+            width: 185px;
+            height: 480px;
+            float: left;
+        }
+        
+        .seventh_block_columns_div{
+            width: 700px;
+            margin: 0 auto;
+        }
+        
+        #seventh_block_title2_popular{
+            width: 230px;
+            margin: 0 auto;
+            text-align: center;
+            font-size: 16px;
+            line-height: 35px;
+        }
+        
+        .seventh_block_column_h2{
+            font-size: 20px;
+            text-align: center;
+            width: 130px;
+            margin-left: 30px;
+            padding-bottom: 20px;
+        }
+        
+        .seventh_block_column_h3{
+            text-align: center;
+            width: 180px;
+            margin: 0 auto;
+            font-size: 19px;
+        }
+        .seventh_block_column_p_top{
+            width: 180px;
+            margin: 0 auto;
+            font-size: 10px;
+            text-align: center;
+            padding-bottom: 20px;
+        }
+        #seventh_block_column_h3_1{
+            padding-bottom: 30px;
+        }
+        
+        .seventh_block_column_img{
+            width: 20px;
+            height: 20px;
+            margin-left: 6px;
+            margin-bottom: 20%;
+        }
+        
+        .seventh_block_column_p{
+            font-size: 12px;
+            line-height: 28px;
+            width: 150px;
+            height: 50px;
+            margin: 0 auto;
+            text-align: center;
+            padding-top: 0px; 
+           padding-bottom: 0px; 
+            margin-right: 9px;
+            float: right
+        }
+        
+        .seventh_block_title3_h1{
+            width: 90%;
+            margin: 0px auto;
+            padding-top: 20px;
+            font-size: 20px;
+        }
+        
+        .seventh_block_title3_p{
+            width: 90%;
+            padding-top: 0px;
+            font-size: 12px;
+            text-align: center;
+            margin: 0px auto;
+            line-height: 16px;
+        }
+        .seventh_block_columns_div{
+            margin: 0 auto;
+            width: 561px;
+        }
+    /* заявка на консультацию */
+    .seventh_block_title4_flex2{
+        margin-left: 10px;
+    }
+    /* часто задаваемые вопросы */
+    .seventh_block_title5_all_questions{
+        width: 80%;
+    }
+    
+}
