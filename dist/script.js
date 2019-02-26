@@ -25,7 +25,7 @@ function block2_change_img2(){
     second_block_bnt1.style.backgroundColor='#aad0d9';
     second_block_bnt2.style.backgroundColor='white';
     second_block_bnt3.style.backgroundColor='#aad0d9';
-    second_block_content_img1.src="/Users/a1/Desktop/AIDA servise/Сайт SmartEDU/сайт/pictures/second_block_img2.png";
+    second_block_content_img1.src="pictures/second_block_img2.png";
     second_block_content1.innerHTML='У вас есть шанс воспользоваться преимуществом первопроходца и стать первым в своей нише.';
     second_block_content2.innerHTML='Так же начать зарабатывать без собственного участия в процессе обучения. Привяжите карту и получайте оплаты за 1 раз качественно составленный онлайн курс';
 }
